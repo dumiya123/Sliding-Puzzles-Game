@@ -14,6 +14,7 @@ import java.util.PriorityQueue;
 /*
  * This class representing Maze Map solver
  */
+
 public class MazeMapSolver
 {
     private static final int[][] userMoves = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}}; //create array to store the possible moves user can do
@@ -22,11 +23,11 @@ public class MazeMapSolver
     private final int number_of_columns;
     private int stepNumber = 1;  //create variable to track the step the number
 
-
     /*
      * Constructor to create an MazeMapSolver object with a given iceMaze
      * @param iceMaze
      */
+
     public MazeMapSolver(MazeMap iceMaze)
     {
 
