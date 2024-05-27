@@ -37,11 +37,11 @@ public class MazeMapSolver
 
     }
 
-
     /*
      * Create a method to solve the maze map
      * This method use A* algorithm to find the shortest path.
      */
+
     public void solve()
     {
         // Declare variables to store the start and finish positions.
@@ -192,6 +192,7 @@ public class MazeMapSolver
 
         System.out.println("Shortest Path Player can go:");
         System.out.println();
+
         for (int i = steps.size() - 1; i >= 0; i--)
         {
 
@@ -199,6 +200,7 @@ public class MazeMapSolver
             stepNumber++;
 
         }
+
     }
 
     // Method to check if a given position is valid in the maze
