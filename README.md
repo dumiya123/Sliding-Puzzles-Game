@@ -17,7 +17,7 @@ The sliding puzzle is a type of puzzle that appears in many video games. In this
 
 ### Example Puzzle
 
-<img src="https://github.com/dumiya123/Sliding-Puzzles-Game/blob/master/related-pics/Screenshot%202024-06-02%20231812.png" alt="puzzle" width=300 height=600/>
+<img src="https://github.com/dumiya123/Sliding-Puzzles-Game/blob/master/related-pics/Screenshot%202024-06-02%20231812.png" alt="puzzle" width=300 height=800/>
 
 ## Features
 
