@@ -59,7 +59,7 @@ The project includes the following functionalities:
 
 ### Input (map.txt)
 
-<img src="https://github.com/dumiya123/Sliding-Puzzles-Game/blob/master/related-pics/Screenshot%202024-06-02%20233647.png" alt="puzzle" width=300 height=600/>
+<img src="https://github.com/dumiya123/Sliding-Puzzles-Game/blob/master/related-pics/Screenshot%202024-06-02%20233647.png" alt="puzzle" width=300 height=800/>
 
 ### Output    
 
